@@ -4,6 +4,12 @@
 
 Mobile penetration testing can be a time-consuming and complex process, particularly when it comes to static analysis of the code, identifying the correct scripts, and framework and library identification can further extend the testing duration, as different frameworks have distinct security implementations and libraries. Automation can significantly alleviate these challenges by streamlining the identification of the framework and associated libraries, and by providing tailored Frida scripts for bypassing security measures. 
 
+In summary, this tool offers a sophisticated and efficient solution for mobile penetration testing, significantly enhancing the testing process through automation and integration with advanced techniques. By systematically unzipping APK files, accurately identifying development frameworks, and automating the execution of critical security scripts, it addresses the complexities associated with mobile application security assessments.
+
+The automation of these tasks not only accelerates the analysis process but also improves its accuracy, thereby reducing the risk of human error and ensuring more reliable results. The ability to dynamically instrument applications using Frida, combined with the streamlined workflow for managing and executing security scripts, provides penetration testers with a robust framework for evaluating application security.
+
+Overall, this tool exemplifies a substantial advancement in the efficiency and effectiveness of mobile penetration testing, making it an invaluable asset for security professionals aiming to ensure the integrity and resilience of mobile applications against potential threats.
+
 
 ## Tool focused on automate the mobile penetration testing methodology and consists on analyze an APK file that will provide
 
@@ -22,13 +28,6 @@ Once you have an APK file downloaded:
  2. Once analyzed, select the security mechanism
  3. It will provide a list of scripts related to the framework analyzed, select the script that you want to download
  4. Downloaded and ready to use in your Frida environment!
-
-
-In summary, this tool offers a sophisticated and efficient solution for mobile penetration testing, significantly enhancing the testing process through automation and integration with advanced techniques. By systematically unzipping APK files, accurately identifying development frameworks, and automating the execution of critical security scripts, it addresses the complexities associated with mobile application security assessments.
-
-The automation of these tasks not only accelerates the analysis process but also improves its accuracy, thereby reducing the risk of human error and ensuring more reliable results. The ability to dynamically instrument applications using Frida, combined with the streamlined workflow for managing and executing security scripts, provides penetration testers with a robust framework for evaluating application security.
-
-Overall, this tool exemplifies a substantial advancement in the efficiency and effectiveness of mobile penetration testing, making it an invaluable asset for security professionals aiming to ensure the integrity and resilience of mobile applications against potential threats.
 
 
 ## Authors
