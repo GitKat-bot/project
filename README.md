@@ -24,6 +24,13 @@ Once you have an APK file downloaded:
  4. Downloaded and ready to use in your Frida environment!
 
 
+In summary, this tool offers a sophisticated and efficient solution for mobile penetration testing, significantly enhancing the testing process through automation and integration with advanced techniques. By systematically unzipping APK files, accurately identifying development frameworks, and automating the execution of critical security scripts, it addresses the complexities associated with mobile application security assessments.
+
+The automation of these tasks not only accelerates the analysis process but also improves its accuracy, thereby reducing the risk of human error and ensuring more reliable results. The ability to dynamically instrument applications using Frida, combined with the streamlined workflow for managing and executing security scripts, provides penetration testers with a robust framework for evaluating application security.
+
+Overall, this tool exemplifies a substantial advancement in the efficiency and effectiveness of mobile penetration testing, making it an invaluable asset for security professionals aiming to ensure the integrity and resilience of mobile applications against potential threats.
+
+
 ## Authors
 This project is a creation of the 2024 X-Force Red Internship
 
